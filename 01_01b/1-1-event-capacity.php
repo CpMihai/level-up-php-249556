@@ -14,7 +14,7 @@ function check_capacity($capacity, $attendees = 0)
 
 // Array: key => [capacity, attendees];
 $venues = array(
-	'Cantina' => [100, 20], //Droids not included.
+	'Cantina' => [100, 20], //Droids not included. 
 	'Dorsia' => [74, 74],
 	'The Max' => [98, 100],
 	'MacLaren\'s' => [53, 127],
